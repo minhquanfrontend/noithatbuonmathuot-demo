@@ -1,0 +1,24 @@
+:root{
+    --background-color:#f5f7fa;
+    --blue-color:#38a7ff;
+    --text-menu-color:#555;
+    --text-color:#c31425;
+    --border-color:#dddddd;
+    --green-color: #369e1a;
+    --menu-color:#f2f2f2;
+    --white-color:#fff;
+    --star-color:#ffa500;
+}
+
+*{
+    font-size: 62.5%;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    box-sizing: border-box;
+    width: 100%;
+    font-family: "Lato", sans-serif;
+
+}
